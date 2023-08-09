@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramod Kodag (TheSilentKnight)</h1>
 <h3 align="center">👨‍💻 Passionate software dev on a mission to turn intricate lines of code into elegant solutions. Problem solver, tech enthusiast, and lifelong learner. Let's innovate together! 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodtkodag" alt="pramodtkodag" /></a> </p>
-
 - 🔭 I’m currently working on Blockchain based blogging system [pramod-dev](http://www.pramod-dev.com/)
 
 - 📝 I regularly write articles on [http://www.pramod-dev.com/blog](http://www.pramod-dev.com/blog)
