@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pramod Kodag (TheSilentKnight)</h1>
-<h3 align="center">Coding wizard with a taste for pizza and caffeine. Turning lines of code into functional art. Let's create magic together!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodtkodag&label=Profile%20views&color=0e75b6&style=flat" alt="pramodtkodag" /> </p>
+<h3 align="center">👨‍💻 Passionate software dev on a mission to turn intricate lines of code into elegant solutions. Problem solver, tech enthusiast, and lifelong learner. Let's innovate together! 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodtkodag" alt="pramodtkodag" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pramod_kodag" target="blank"><img src="https://img.shields.io/twitter/follow/pramod_kodag?logo=twitter&style=for-the-badge" alt="pramod_kodag" /></a> </p>
+- 🔭 I’m currently working on Blockchain based blogging system [pramod-dev](http://www.pramod-dev.com/)
 
-- 🔭 I’m currently working on Blockchain based blogging system [PK](http://www.pramod-dev.com/)
+- 📝 I regularly write articles on [http://www.pramod-dev.com/blog](http://www.pramod-dev.com/blog)
+
+- 📫 How to reach me **kodagpramod96@gmail.com**
+
+- ⚡ Fun fact **I think I am funny !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,15 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/TheSilentKnight"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TheSilentKnight" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodtkodag&show_icons=true&locale=en&layout=compact" alt="pramodtkodag" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramodtkodag&show_icons=true&locale=en" alt="pramodtkodag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodtkodag&" alt="pramodtkodag" /></p>
-
-
-<!---
-PramodTKodag/PramodTKodag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
