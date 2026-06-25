@@ -25,13 +25,20 @@
 
 ---
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
-#### [`snark`](https://github.com/PramodTKodag/snark) — Sarcasm as a Service
-An AI-powered humor API that returns a unique, witty response on every request — roasts, brutally honest commit messages, ELI5 explanations, and **25+ endpoints**. Built with **Python**.
+- **[`snark`](https://github.com/PramodTKodag/snark)** — *Sarcasm as a Service.* An AI-powered humor API returning a unique, witty response on every request — roasts, brutally honest commit messages, ELI5 explanations, **25+ endpoints**. `Python`
+- **[`blogging-contract`](https://github.com/PramodTKodag/blogging-contract)** — Smart contracts powering the decentralized blogging platform behind [pramod-dev.com](https://www.pramod-dev.com/). `Solidity`
+- **[`Multiplayer-tic-tac-toe-game`](https://github.com/PramodTKodag/Multiplayer-tic-tac-toe-game)** — Real-time multiplayer tic-tac-toe built with React and Node.js over socket programming. `JavaScript`
+- **[`Macdonald-Menu-Analysis`](https://github.com/PramodTKodag/Macdonald-Menu-Analysis)** — Data analysis of McDonald's menu ingredients and nutritional content. `R`
 
 <p align="left">
   <a href="https://github.com/PramodTKodag/snark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=snark&theme=tokyonight" alt="snark"/></a>
+  <a href="https://github.com/PramodTKodag/blogging-contract"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=blogging-contract&theme=tokyonight" alt="blogging-contract"/></a>
+</p>
+<p align="left">
+  <a href="https://github.com/PramodTKodag/Multiplayer-tic-tac-toe-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=Multiplayer-tic-tac-toe-game&theme=tokyonight" alt="tic-tac-toe"/></a>
+  <a href="https://github.com/PramodTKodag/Macdonald-Menu-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=Macdonald-Menu-Analysis&theme=tokyonight" alt="macdonald-menu-analysis"/></a>
 </p>
 
 ---
