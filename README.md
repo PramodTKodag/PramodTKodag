@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.pramod-dev.com/"><img src="https://img.shields.io/badge/Website-pramod--dev.com-2563eb?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
+  <a href="https://pramod-dev.com/"><img src="https://img.shields.io/badge/Website-pramod--dev.com-2563eb?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
   <a href="https://linkedin.com/in/pramod-kodag-70b789135"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://dev.to/thesilentknight"><img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="devto"/></a>
   <a href="https://twitter.com/pramod_kodag"><img src="https://img.shields.io/badge/X-@pramod__kodag-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="x"/></a>
@@ -18,8 +18,8 @@
 ### About me
 
 - 🧱 **Senior engineer & team lead** — I design backend architectures and mentor engineers day to day.
-- ⛓️ **Blockchain / Web3** — smart contracts and decentralized systems, including a blockchain-based blogging platform at [pramod-dev.com](https://www.pramod-dev.com/).
-- ✍️ I write about engineering at [pramod-dev.com/blog](https://www.pramod-dev.com/blog) and [Dev.to](https://dev.to/thesilentknight).
+- ⛓️ **Blockchain / Web3** — smart contracts and decentralized systems, including a blockchain-based blogging platform at [pramod-dev.com](https://pramod-dev.com/).
+- ✍️ I write about engineering at [pramod-dev.com/blog](https://pramod-dev.com/blog) and [Dev.to](https://dev.to/thesilentknight).
 - 🌱 Currently exploring **applied AI** — fine-tuned models for developer tooling.
 - 📫 Reach me at **kodagpramod96@gmail.com**
 
@@ -28,7 +28,7 @@
 ### 🚀 Featured projects
 
 - **[`snark`](https://github.com/PramodTKodag/snark)** — *Sarcasm as a Service.* An AI-powered humor API returning a unique, witty response on every request — roasts, brutally honest commit messages, ELI5 explanations, **25+ endpoints**. `Python`
-- **[`blogging-contract`](https://github.com/PramodTKodag/blogging-contract)** — Smart contracts powering the decentralized blogging platform behind [pramod-dev.com](https://www.pramod-dev.com/). `Solidity`
+- **[`blogging-contract`](https://github.com/PramodTKodag/blogging-contract)** — Smart contracts powering the decentralized blogging platform behind [pramod-dev.com](https://pramod-dev.com/). `Solidity`
 - **[`Multiplayer-tic-tac-toe-game`](https://github.com/PramodTKodag/Multiplayer-tic-tac-toe-game)** — Real-time multiplayer tic-tac-toe built with React and Node.js over socket programming. `JavaScript`
 - **[`Macdonald-Menu-Analysis`](https://github.com/PramodTKodag/Macdonald-Menu-Analysis)** — Data analysis of McDonald's menu ingredients and nutritional content. `R`
 
