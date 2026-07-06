@@ -24,9 +24,7 @@
 
 Closed-source products I've built or led — more detail at [pramod-dev.com/#work](https://pramod-dev.com/#work).
 
-- **FabricBloc** — Stablecoin payment rails and embedded wallets that bring onchain transactions into any mobile app, no modals or redirects. `Embedded wallets · Stablecoins · Web3`
 - **Abellfi** — Crypto trading platform that turns algorithmic signals into on-chain trades. `Next.js · Solidity · Node`
-- **BlocAuth** — One identity layer unifying Web2 and Web3, with OAuth2, JWT, OIDC and DID. `Django · Python · Web3`
 - **Few and Far** — Frontend for a digital-collectibles platform: NFT launches, trend reviews, news, analytics and market forecasts. `Next.js · React · Web3`
 
 ---
