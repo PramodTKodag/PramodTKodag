@@ -52,6 +52,10 @@ Closed-source products I've built or led — more detail at [pramod-dev.com/#wor
 ### ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I built an API that roasts you, and every response is AI-generated](https://dev.to/thesilentknight/i-built-an-api-that-roasts-you-and-every-response-is-ai-generated-2b6f)
+- [🔒 The Future of Authentication Is Coming](https://dev.to/thesilentknight/the-future-of-authentication-is-coming-7k0)
+- [HR Management system using FLASK framework](https://dev.to/thesilentknight/hr-management-system-using-flask-framework-42fo)
+- [Selenium project with Python to scrap data](https://dev.to/thesilentknight/selenium-project-with-python-to-scrap-data-104o)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Dev.to](https://dev.to/thesilentknight) and [pramod-dev.com/blog](https://pramod-dev.com/blog).
