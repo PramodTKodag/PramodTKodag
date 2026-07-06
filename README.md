@@ -1,9 +1,4 @@
-<h1 align="center">Hi, I'm Pramod Kodag 👋</h1>
-<h3 align="center">Senior Software Engineer · Blockchain &amp; Backend · Team Lead</h3>
-
-<p align="center">
-  I build resilient backends, ship Web3 systems, and lead teams that turn hard problems into clean, maintainable software.
-</p>
+<a href="https://pramod-dev.com/"><img src="assets/cover.webp" alt="Pramod Kodag · Senior Software Engineer &amp; Tech Lead · full-stack web · Web3" width="100%"/></a>
 
 <p align="center">
   <a href="https://pramod-dev.com/"><img src="https://img.shields.io/badge/Website-pramod--dev.com-2563eb?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
@@ -64,6 +59,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PramodTKodag&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+---
+
+### 📈 Activity overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramodTKodag&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph"/>
 </p>
 
 ---
