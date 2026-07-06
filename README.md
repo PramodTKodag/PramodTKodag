@@ -36,15 +36,6 @@ Closed-source products I've built or led — more detail at [pramod-dev.com/#wor
 - **[`Multiplayer-tic-tac-toe-game`](https://github.com/PramodTKodag/Multiplayer-tic-tac-toe-game)** — Real-time multiplayer tic-tac-toe built with React and Node.js over socket programming. `JavaScript`
 - **[`Macdonald-Menu-Analysis`](https://github.com/PramodTKodag/Macdonald-Menu-Analysis)** — Data analysis of McDonald's menu ingredients and nutritional content. `R`
 
-<p align="left">
-  <a href="https://github.com/PramodTKodag/snark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=snark&theme=tokyonight" alt="snark"/></a>
-  <a href="https://github.com/PramodTKodag/blogging-contract"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=blogging-contract&theme=tokyonight" alt="blogging-contract"/></a>
-</p>
-<p align="left">
-  <a href="https://github.com/PramodTKodag/Multiplayer-tic-tac-toe-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=Multiplayer-tic-tac-toe-game&theme=tokyonight" alt="tic-tac-toe"/></a>
-  <a href="https://github.com/PramodTKodag/Macdonald-Menu-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodTKodag&repo=Macdonald-Menu-Analysis&theme=tokyonight" alt="macdonald-menu-analysis"/></a>
-</p>
-
 ---
 
 ### ✍️ Latest posts
