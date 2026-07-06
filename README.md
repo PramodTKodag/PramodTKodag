@@ -66,8 +66,12 @@ More on [Dev.to](https://dev.to/thesilentknight) and [pramod-dev.com/blog](https
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PramodTKodag&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTKodag&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
+  <img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="top languages"/>
 </p>
 
 <p align="center">
