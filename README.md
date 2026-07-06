@@ -1,6 +1,10 @@
 <a href="https://pramod-dev.com/"><img src="assets/cover.webp" alt="Pramod Kodag · Senior Software Engineer &amp; Tech Lead · full-stack web · Web3" width="100%"/></a>
 
 <p align="center">
+  <a href="https://pramod-dev.com/"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+resilient+backends;I+ship+Web3+systems;I+lead+teams+from+idea+to+release;TheSilentKnight+%C2%B7+building+at+night" alt="typing headline"/></a>
+</p>
+
+<p align="center">
   <a href="https://pramod-dev.com/"><img src="https://img.shields.io/badge/Website-pramod--dev.com-2563eb?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
   <a href="https://linkedin.com/in/pramod-kodag-70b789135"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://dev.to/thesilentknight"><img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="devto"/></a>
