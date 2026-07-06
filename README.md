@@ -100,4 +100,35 @@ More on [Dev.to](https://dev.to/thesilentknight) and [pramod-dev.com/blog](https
 
 ---
 
+### ♟️ Community chess
+
+Anyone can play, one move at a time — you against the internet. It's <!-- BEGIN TURN -->?<!-- END TURN -->'s turn. Click a move below, submit the issue it opens, and the board updates in seconds.
+
+<!-- BEGIN CHESS BOARD -->
+(The board appears once the first game starts)
+<!-- END CHESS BOARD -->
+
+**Pick a move:**
+<!-- BEGIN MOVES LIST -->
+(Legal moves appear here)
+<!-- END MOVES LIST -->
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+(Recent moves appear here)
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+  <summary>Top 10 most-played moves across all games</summary>
+<!-- BEGIN TOP MOVES -->
+(Move stats appear here)
+<!-- END TOP MOVES -->
+</details>
+
+<sub>Powered by <a href="https://github.com/marcizhu/readme-chess">readme-chess</a>.</sub>
+
+---
+
 <p align="center"><i>Open to collaborating on backend, blockchain, and AI tooling — let's build something.</i></p>
